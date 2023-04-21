@@ -10,19 +10,19 @@
 
 # Part: Bladed Knuckles
 0x00000013 Energy Slash
-0x00000014 Slashes the target for an energy cost.
+0x00000014 Slashes targets in front of you with conal area-of-effect damage for an energy cost. Damage and energy cost vary depending on a part morph. ~br~~br~Damage and cost: ~br~L1: 30 damage, 55 energy ~br~L2: 55 damage, 70 energy~br~L3: 90 damage, 90 energy~br~ ~br~Reduced effectiveness on buildings and vehicles: 1/2 damage   
 
 # Part: Missile Flinger  (RENAME)
 0x00000001 Missile Attack
-0x00000002 Fires a missile that damages the area around the target for an energy cost.
+0x00000002 Fires a missile that damages the area around the target for an energy cost. Targets hit by the attack will be stunned for a second. Damage and energy cost vary depending on a part morph. ~br~~br~Damage and cost: ~br~L1: 35 damage, 150 energy ~br~L2: 60 damage, 180 energy~br~L3: 90 damage, 220 energy~br~Level 3 knocks the user back a bit after use. This will halt in-air momentum while gliding.
 
 # Part: Lightning Striker (RENAME)
 0x00001000 Lightning Strike
-0x00001001 Stuns the target and deals a large amount of damage for an energy cost.
+0x00001001 Stuns the target and deals a large amount of damage for an energy cost. Targets immediately around the main target receive reduced area-of-effect damage. Damage and energy cost vary depending on a part morph. ~br~~br~Damage and cost: ~br~L1: 35 damage, 80 energy ~br~L2: 70 damage, 110 energy~br~L3: 115 damage, 135 energy~br~Level 3 attack has slower wind-up time than levels 1 and 2.~br~ ~br~Reduced effectiveness on buildings and vehicles: 1/2 damage
 
 # Part: Plasma Pulser
 0x00001006 Pulse Blast
-0x00001007 Fires a concentrated blast of energy at the target for an energy cost.
+0x00001007 Fires a concentrated blast of energy at the target from a distance for an energy cost. Damage and energy cost vary depending on a part morph. ~br~~br~Damage and cost: ~br~L1: 20 damage, 80 energy ~br~L2: 35 damage, 100 energy~br~L3: 55 damage, 125 energy~br~Levels 2 and 3 knock the user back a bit after use. This will halt in-air momentum while gliding.
 
 #############################################################################
 # Zealot Armor:
@@ -62,38 +62,38 @@
 
 # Part: Swarm Magnet (RENAME)
 0x00001022 Summon Swarm
-0x00001023 Summons a swarm of meddlesome insects to torment your foes.
+0x00001023 Summons a swarm of meddlesome insects to torment your foes. Initial hit of 10 damage and damage over time totalling 50 damage, including the first hit. The target will be unable to act when swarmed by insects, unless hit by the player.
 
 # Part: Hypnomelder
 0x00001024 Mind Meld
-0x00001025 Turns hostile enemies friendly for a period of time.
+0x00001025 Converts the target into a temporary ally. The target will attack and socialize with you for ?? seconds, after which the effect wears off. Effect can be re-applied afterwards.
 
 # Part: Toxic Crystal
 0x00001026 Poison Blade
-0x00001027 Delivers a toxic poison that does a small amount of damage over time.
+0x00001027 Strike your target with a toxic blade. Initial hit of 10 damage and damage over time totalling 50 damage, including the first hit. Poison damage duration gets reset with each consequential attack. Deals 5 damage when used on buildings and vehicles.
 
 # Part: Icy Band
 0x00001028 Freeze Blast
-0x00001029 Freezes a target in place for a short time.
+0x00001029 Freezes the target creatures in place for ?? seconds. Target will be unable to act during this time, unless hit again by the player. Deals 30 damage when used on buildings and vehicles.
 
 #############################################################################
 # Diplomat Socials:
 
 # Part: Princely Pad
 0x00001030 Graceful Waltz
-0x00001031 An elegant dance that helps improve relations.
+0x00001031 An elegant dance that helps improve relations. Equal to level 6 Dance.
 
 # Part: Ducal Cape
 0x00001032 Harmonious Song
-0x00001033 A beautiful song that helps improve relations.
+0x00001033 A beautiful song that helps improve relations. Equal to Level 6 Sing.
 
 # Part: Regal Ring
 0x00001034 Royal Charm
-0x00001035 A dazzling charm that helps improve relations.
+0x00001035 A dazzling charm that helps improve relations. Equal to Level 6 Charm.
 
 # Part: Imperial Robe
 0x00001036 Radiant Pose
-0x00001037 A vibrant pose that helps improve relations.
+0x00001037 A vibrant pose that helps improve relations. Equal to Level 6 Pose.
 
 #############################################################################
 # Trader Movement:
@@ -112,26 +112,26 @@
 
 # Part: Jump Jet
 0x00001044 Jump Jet
-0x00001045 A very high jump with a medium energy cost.
+0x00001045 Hold Space button to continually ascend until your energy runs out. Initial energy cost of 200 energy to start ascending.
 
 #############################################################################
 # Bard Socials:
 
 # Part: Synergizer
 0x00000101 Holo Charm
-0x00000102 An increased Charm that improves relations and has a small energy cost.
+0x00000102 An increased Charm that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Charm ~br~L2: Level 12 Charm ~br~L3: Level 18 Charm
 
 # Part: Harpolizer
 0x00001046 Inspiring Song
-0x00001047 An increased Song that improves relations and has a small energy cost.
+0x00001047 An increased Song that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Sing ~br~L2: Level 12 Sing ~br~L3: Level 18 Sing
 
 # Part: Hop Gogs
 0x00001052 Stunning Dance
-0x00001053 An increased Dance that improves relations and has a small energy cost.
+0x00001053 An increased Dance that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Dance ~br~L2: Level 12 Dance ~br~L3: Level 18 Dance
 
 # Part: Fettipopper
 0x00001058 Confetti Pose
-0x00001059 An increased Pose that improves relations and has a small energy cost.
+0x00001059 An increased Pose that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Pose ~br~L2: Level 12 Pose ~br~L3: Level 18 Pose
 
 #############################################################################
 # Scientist Passive Bonuses:

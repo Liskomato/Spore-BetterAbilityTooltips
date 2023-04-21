@@ -1,0 +1,823 @@
+﻿# Charge3.prop
+
+0x0000001D Rynnäkkö
+0x0000001E Hyökkäys, joka suoritetaan etäältä yhden kohteen kimppuun. Tainnuttaa kohteen.
+
+# Colony_Building.prop
+
+0x0000004F Tuotanto
+0x00000050 Tuotannon lisääminen tuottaa siirtokunnalle lisää rahaa.
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+
+0x0630D531 Armeijan ilma-alus
+0x0630D532 Ilmojen herraa odottaa sotilaallinen ylivalta.
+
+# Colony_CivicObject.prop
+
+0x00000051 Siviilikohteet
+0x00000052 Siviilikohteilla on vain koristearvoa.
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+
+0x0630D571 Siirtokunnan ilma-alus
+0x0630D572 Tutki siirtokuntaa ilmasta käsin!
+
+#socialize
+
+0x00002001 Lisää lauluun, tanssiin, poseeraukseen tai hurmaukseen sopiva osa, niin voit seurustella muiden otusten kanssa.
+0x00001001 Kanssakäyminen
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+
+0x0630D573 Siirtokunnan vesikulkuneuvo
+0x0630D574 Tutki maailmaa mereltä käsin!
+
+# City_Income.prop
+
+0x00000037 Tulot
+0x00000038 Kun lisäät tehtaita asuinrakennusten viereen, kaupungin tulot kasvavat. Valitettavasti ne myös lisäävät tyytymättömyyttä, varsinkin lähellä viihderakennuksia.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+# Dance1.prop
+
+0x33A78A33 Tanssi
+0x33A78A34 Tanssimalla voit ystävystyä siitä pitävien otusten kanssa.
+
+# Tribe_Shaman_Staff.prop
+
+0x00000102 Parannussauvat
+0x00000103 Varusta heimosi jäsenet samaanin sauvoilla, niin he voivat parantaa kentällä olevia joukkojaan.
+0x0666A342 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+#Heath rollover unit
+
+0x064922B4 ~icon_amount~
+0x064922B6 ~icon_amount~
+0x064923C4 Kulkuneuvon kunto ~icon_amount~
+
+# CL_Proboscis.prop
+
+0x0000004B Kaikkiruokainen
+0x0000004C Otuksesi hotkii niin kasvien nesteitä kuin eläviä olentojakin.
+0x06493565 Kaikkiruokainen – Syöt vihreitä kasveja ja toisia soluja.
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+
+0x0630D575 Siirtokunnan maa-ajoneuvo
+0x0630D576 Tutki siirtokuntaa maalta käsin!
+
+# Charm5.prop
+
+0x0000008B Hurmaaminen
+0x0000008C Tämän taidon avulla voit hurmata otukset, joilla on paljon yksityiskohtaisia ruumiinosia.
+
+# Spit2.prop
+
+0x000000C2 Sylkeminen
+0x000000C3 Nopea hyökkäys, joka sinkoaa ammuksia yksittäiseen kohteeseen.
+
+# Herbivore1-5.prop
+
+0x0473A24F Otuksesi syö hedelmiä.
+0x0473A24E Kasvinsyöjä
+
+# City_Cultural.prop
+
+0x0000002B Käännytä muut
+0x0000002C Uskonnon kulkuneuvot voivat käännyttää kaupunkeja, joissa on paljon tyytymättömiä asukkaita.
+
+#Format for displaying percentage
+
+0x0642C770 ~icon_amount~ %
+
+# Charge5.prop
+
+0x00000021 Rynnäkkö
+0x00000022 Hyökkäys, joka suoritetaan etäältä yhden kohteen kimppuun. Tainnuttaa kohteen.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+# Spit1.prop
+
+0x000000BE Sylkeminen
+0x000000BF Nopea hyökkäys, joka sinkoaa ammuksia yksittäiseen kohteeseen.
+
+##### Tribal Accessories #####
+
+0x055D4830 Taistelu
+0x055D4836 Keräys
+0x055D4838 Kalastus
+0x055D4832 Seurustelu
+0x055D4834 Kunto
+0x055D4835 Suojavarusteet lisäävät kunkin heimon jäsenen taistelussa kestämän vahingon määrää.
+0x055D4837 Keräysvarusteilla ruoan keräämisestä tulee nopeampaa.
+0x055D4833 Seurusteluvarusteiden ollessa käytössä seurustelutoimilla on helpompi tehdä vaikutus muihin heimoihin.
+0x055D4831 Taisteluvarusteet lisäävät kunkin heimon jäsenen taistelussa aiheuttamaa vahinkoa.
+0x055D4839 Kalastustarvikkeet kohentavat kalastusominaisuuttasi.
+0x055D4E62 Keräys
+0x055D4EB3 Lisävarusteilla voit parantaa keräysominaisuuksia.
+
+### Complexity Meter ##
+
+0x05F110B3 Monimutkaisuusmittari
+0x05F110B4 Jos mittari on täynnä, et voi lisätä uusia osia.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+# Strike1.prop
+
+0x000000D4 Isku
+0x000000D5 Tuhoisa hyökkäys usean lähietäisyydellä olevan kohteen kimppuun.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+# BasicBite.prop
+
+0x049A3CC3 Automaattihyökkäys
+0x049A3CDB Tavallinen automaattipuraisu
+
+##### END CELL GAME (CSA) #####
+##### CREATURE GAME (CSA) #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062D01CD Taso ~icon_amount~
+
+##### END TRIBE GAME #####
+##### CIV GAME #####
+### Vehicle Stats ###
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x062F86F5 + ~icon_amount~
+
+#Heath on screen unit
+
+0x064922B5 ~icon_amount~
+
+# Vocalize3.prop
+
+0x00000121 Laulamalla voit ystävystyä äänekkäiden otusten kanssa.
+0x00000120 Laulu
+
+#health
+
+0x00001004 Kunto
+0x00001008 Kunto
+0x00002008 Kunto ilmaisee, kuinka paljon vahinkoa solusi vielä kestää. Kullakin solulla on kolme kuntoyksikköä.
+0x00002004 Jokainen uusi älykkyystaso kasvattaa myös kuntoasi. Vaihtoehtoisesti voit hankkia panssaroituja osia, joiden avulla pärjäät paremmin taistelussa.
+
+### Speed ###
+# Vehicle_Speed.prop
+
+0x04CEA2D2 Nopeus
+0x04CEA2D3 Lisää kulkuneuvosi nopeutta.
+
+# Colony_House.prop
+
+0x066657CA Tuotanto
+0x066657CB Kun yhdistät asuinrakennukset tehtaisiin, ne lisäävät rohdontuotantoa.
+
+### Power ###
+# Vehicle_Power.prop
+
+0x04CEA2D4 Voima
+0x04CEA2D5 Voimien kasvu lisää myös tehokkuutta.
+
+### verb tray groups (CSA) ###
+#attack
+
+0x00001000 Hyökkäys
+0x00002000 Lisää puraisuun, iskuun, rynnäkköön tai sylkemiseen tarkoitettu osa, niin parannat hyökkäystehoa.
+0x00001007 Hyökkäys
+0x00002007 Lisää piikki, myrkkyä tai sähköisiä osia, niin otuksesi voi hyökätä muiden kimppuun.
+
+# Posture3.prop
+
+0x000000A7 Poseeraus
+0x000000A8 Poseeraukset ovat suosittuja tarttuimilla varustettujen otusten keskuudessa.
+
+# Dance2.prop
+
+0x00000057 Tanssi
+0x00000058 Tanssimalla voit ystävystyä siitä pitävien otusten kanssa.
+
+# Bite2.prop
+
+0x00000005 Puraisu
+0x00000006 Nopea hyökkäys yhden lähietäisyydellä olevan kohteen kimppuun.
+
+##### CELL GAME #####
+#Displayed Unit descriptions (like "level", "amount" or something)
+#Unit for part rollover
+
+0x064922B1 ~icon_amount~
+
+# Charm4.prop
+
+0x00000089 Hurmaaminen
+0x0000008A Tämän taidon avulla voit hurmata otukset, joilla on paljon yksityiskohtaisia ruumiinosia.
+
+# CL_Carnivore_Proboscis.prop
+
+0x06526772 Solusi saalistaa muita soluja, syö punaisia lihapaloja ja imee nestettä kasveista ja muista soluista.
+0x06526762 Kaikkiruokainen
+
+# Charge2.prop
+
+0x0000001B Rynnäkkö
+0x0000001C Hyökkäys, joka suoritetaan etäältä yhden kohteen kimppuun. Tainnuttaa kohteen.
+
+# Bite1.prop
+
+0x00000001 Puraisu
+0x00000002 Nopea hyökkäys yhden lähietäisyydellä olevan kohteen kimppuun.
+
+### Factory ###
+# Building_Factory.prop
+
+0x06496724 Tehdas
+0x06496725 Kasvattaa tuloja, mutta tekee asukkaista tyytymättömämpiä.
+
+# CL_Cilia.prop
+
+0x0000003F Pikakäännös
+0x00000040 Otuksesi kääntyy nopeasti.
+
+#Heath onscreen unit
+
+0x064922B7 ~icon_amount~
+
+# Colony_Entertainment.prop
+
+0x066657CC Tuotanto
+0x066657CD Pidä asukkaat tyytyväisinä sijoittamalla asuinrakennusten viereen viihderakennuksia.
+
+# Colony_Factory.prop
+
+0x066657CE Tuotanto
+0x066657CF Kun lisäät tehtaita asuinrakennusten viereen, ne lisäävät kaupungin rohdontuotantoa. Valitettavasti ne lisäävät myös tyytymättömyyttä, varsinkin viihderakennusten lähelle sijoitettuina.
+
+#Tribe_NormalOutfit.prop
+
+0x04D02BC7 Heimon lisävarusteet
+0x04D02BF8 Anna heimosi jäsenille asuja, jotka kasvattavat heidän taitojaan!
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+
+0x0630D533 Armeijan vesikulkuneuvo
+0x0630D534 Purjehdi sotilaalliseen ylivaltaan.
+
+#movement
+
+0x00001003 Nopeus
+0x00001006 Liike
+0x00002003 Pääset nopeammin, kun lisäät otuksellesi nopeammat jalat!
+0x00002006 Lisää värekarva, siima tai suihkutin, niin voit liikkua nopeammin. Kukin kulkuelin lisää solun nopeutta.
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+##### END CIV GAME #####
+##### SPACE GAME #####
+# Scan.prop
+
+0x000000B5 Luotaa
+
+# CL_Herbivore_Proboscis.prop
+
+0x06526771 Solusi syö vihreitä kasveja ja imee nestettä kasveista ja muista soluista.
+0x06526761 Kaikkiruokainen
+
+#Unit for power verb tray rollover
+
+0x06492354 Voima ~icon_amount~
+
+# Spit5.prop
+
+0x000000C8 Sylkeminen
+0x000000C9 Nopea hyökkäys, joka sinkoaa ammuksia yksittäiseen kohteeseen.
+
+# Posture5.prop
+
+0x000000AB Poseeraus
+0x000000AC Poseeraukset ovat suosittuja tarttuimilla varustettujen otusten keskuudessa.
+
+### Entertainment ###
+# Building_Entertainment.prop
+
+0x06496726 Viihderakennus
+0x06496727 Lisää tyytyväisyyttä ja suojaa siten uskonnon hyökkäyksiltä.
+
+# Dance5.prop
+
+0x0000005D Tanssi
+0x0000005E Tanssimalla voit ystävystyä siitä pitävien otusten kanssa.
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+
+0xF386C341 Pyrähdys
+0xF386C342 Pyrähdyksen ansiosta voi liikkua lyhyitä etäisyyksiä huippunopeasti. Ylimääräisillä pyrähdysraajoilla pidennät pyrähdyksen kestoa.
+
+### Editor -- Feet parts (CSA) ###
+# Speed1-5.prop
+
+0x0473A250 Nopeus
+0x0473A251 Lisää paremmat jalat, niin otuksesi juoksee nopeammin.
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+
+0x0630D545 Talouden maa-ajoneuvo
+0x0630D546 Keinottele itsesi huipulle maanteitä hallitsemalla!
+
+### verb Tray Abilities. Generic Category (CSA) ###
+### Health (CSA) ###
+# Health.prop
+
+0x04CB5B6C Parempi kunto lisää olennon selviytymismahdollisuuksia muiden otusten hyökätessä.
+0x04CB5B6D Kunto
+
+# CL_Shock.prop
+
+0x0000004D Sähkösokki
+0x0000004E Solusi antaa sähkösokin lähistöllä oleville soluille ja on itse immuuni sähkösokeille.
+
+# CL_Poke.prop
+
+0x00000049 Hyökkää ja hajota
+0x0000004A Otuksesi rynnäköi toisten soluotusten kimppuun. Jotkin kohteet hajoavat, jos isket niitä.
+
+#Speed on screen unit
+
+0x064ACDC4 ~icon_amount~
+0x0649A1B0 ~icon_amount~
+
+# CL_Jet.prop
+
+0x00000045 Pyrähdys
+0x00000046 Otuksesi kiihdyttää kunnon vauhtiin nopeasti. 
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+# Graspers.prop
+
+0x0000009F Tarttuimet
+0x000000A0 Tartu esineisiin ja käytä niitä.
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+
+0x0630D555 Uskonnon maa-ajoneuvo
+0x0630D556 Käännytä massat maan kamaralta!
+
+# Vehicle_EconomicPower.prop
+
+0x06318042 Talousvoima
+0x06318043 Talousvoima kasvattaa kauppareittien tuottoisuutta.
+
+# CL_Speed.prop
+
+0x0563FF82 Nopeus
+0x0563FF83 Nopeus
+
+#Unit for verb tray rollover
+
+0x062F86F6 + ~icon_amount~
+0x064922B2 ~icon_amount~
+0x062D01CE Taso ~icon_amount~
+
+##### END CREATURE GAME #####
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+##### TRIBE GAME #####
+# Tribe_Fish1.prop
+
+0x000000F0 Kalastuskeihäs
+0x000000F1 Varusta heimosi jäsenet kalastuskeihäillä, niin he saavat mahdollisimman suuren kalansaaliin.
+0x0666A340 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+# Bite5.prop
+
+0x0000000B Puraisu
+0x0000000C Nopea hyökkäys yhden lähietäisyydellä olevan kohteen kimppuun.
+
+#Unit for religious verb tray rollover
+
+0x06492352 Uskonvoima ~icon_amount~
+
+# Tribe_Hunt3.prop
+
+0x0000010A Heittokeihäät
+0x0000010B Heittokeihäillä heimosi jäsenet voivat hyökätä etäältä.
+0x0666A346 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+# Spit3.prop
+
+0x000000C4 Sylkeminen
+0x000000C5 Nopea hyökkäys, joka sinkoaa ammuksia yksittäiseen kohteeseen.
+
+# Posture2.prop
+
+0x000000A5 Poseeraus
+0x000000A6 Poseeraukset ovat suosittuja tarttuimilla varustettujen otusten keskuudessa.
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+
+0x0630D553 Uskonnon vesikulkuneuvo
+0x0630D554 Käännytä massat mereltä käsin!
+
+#Unit for economic verb tray rollover
+
+0x06492353 Talousvoima ~icon_amount~
+
+# City_Population.prop
+
+0x0000003B Asukasluku
+0x0000003C Kun yhdistät asuinrakennukset tehtaisiin, ne kasvattavat tuotantoa. Jokaisen asuinrakennuksen myötä kulkuneuvojen enimmäismäärä kasvaa yhdellä.
+
+#diet
+
+0x00001002 Ruokavalio
+0x00001005 Ruokavalio
+0x00002005 Määritä otuksesi ruokavalio lisäämällä hetulat, leuat tai kärsä.
+0x00002002 Määritä otuksesi ruokavalioksi lihansyöjä, kasvinsyöjä tai kaikkiruokainen. Ruokavaliosta huolimatta selviämiseen tarvitaan aina jonkinlainen suu.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+# Block1-5.prop
+
+0x00000015 Torjunta
+0x00000016 Kun torjut hyökkäyksen, otuksesi ei kärsi vahinkoa.
+
+# City_NormalOutfit.prop
+
+0x05B1E9BB Luo asu kansalaisillesi.
+0x05B1E9BC Luo asu kansalaisillesi.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+# Charge1.prop
+
+0x00000017 Rynnäkkö
+0x00000018 Hyökkäys, joka suoritetaan etäältä yhden kohteen kimppuun. Tainnuttaa kohteen.
+
+# Charm3.prop
+
+0x00000087 Hurmaaminen
+0x00000088 Tämän taidon avulla voit hurmata otukset, joilla on paljon yksityiskohtaisia ruumiinosia.
+
+### Jump (CSA) ###
+# Jump1-5.prop
+
+0x00000097 Hyppy
+0x00000098 Hyppäämällä pääset muutoin saavuttamattomissa oleviin paikkoihin. Mitä korkeammalla tasolla olentosi on, sitä korkeammalle se voi hypätä. Kun olet koekävelyllä, voit testata hyppyä painamalla välilyöntiä.
+
+# Strike2.prop
+
+0x000000D8 Isku
+0x000000D9 Tuhoisa hyökkäys usean lähietäisyydellä olevan kohteen kimppuun.
+
+# Vehicle_ReligiousPower.prop
+
+0x06318040 Uskonvoima
+0x06318041 Uskonnon voima auttaa sinua käännyttämään pakanoita.
+
+# Dance4.prop
+
+0x0000005B Tanssi
+0x0000005C Tanssimalla voit ystävystyä siitä pitävien otusten kanssa.
+
+### House ###
+# Building_House.prop
+
+0x06496722 Asuinrakennus
+0x06496723 Kasvattaa kaupungin asukaslukua ja kulkuneuvojen enimmäismäärää.
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+# Glide1-5.prop
+
+0x00000095 Liito
+0x00000096 Siipien avulla otuksesi voi lentää. Mitä suurempi taso, sitä pidemmälle otus voi lentää.
+
+# Tribe_Gather3.prop
+
+0x000000FC Keräyskepit
+0x000000FD Varusta heimosi jäsenet keräyskepeillä, niin he saavat mahdollisimman suuren hedelmäsadon.
+0x0666A341 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+# City_Happiness.prop
+
+0x00000033 Tyytyväisyys
+0x00000034 Pidä asukkaat tyytyväisinä sijoittamalla asuinrakennusten viereen viihderakennuksia.
+
+### Defense ###
+# Vehicle_Defense.prop
+
+0x04CEA2D0 Kunto
+0x04CEA2D1 Kun kasvatat kulkuneuvosi kuntoarvoa, se kestää taistelussa pidempään.
+
+# Bite3.prop
+
+0x00000007 Puraisu
+0x00000008 Nopea hyökkäys yhden lähietäisyydellä olevan kohteen kimppuun.
+
+# CL_Poison.prop
+
+0x00000047 Myrkyn sylkeminen
+0x00000048 Solusi sylkee ympärilleen myrkkypilven ja on itse immuuni myrkyille.
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+
+0x0630D535 Armeijan maa-ajoneuvo
+0x0630D536 Kaahaa sotilaalliseen ylivaltaan.
+
+# CL_Herbivore_Carnivore.prop
+
+0x06526770 Solusi syö vihreitä kasveja, saalistaa muita soluja ja syö punaisia lihapaloja.
+0x06526760 Kaikkiruokainen
+
+# Starvivore.prop
+
+0x04D19389 Suuton
+0x04D1938A Ilman suuta otuksesi kuolee nälkään. Lisää otukselle suu!
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+# Posture1.prop
+
+0x000000A1 Poseeraus
+0x000000A2 Poseeraukset ovat suosittuja tarttuimilla varustettujen otusten keskuudessa.
+
+#Unit for military verb tray rollover
+
+0x06492351 Sotilasvoima ~icon_amount~
+
+# Vocalize2.prop
+
+0x0000011F Laulamalla voit ystävystyä äänekkäiden otusten kanssa.
+0x0000011E Laulu
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+
+0x000000D2 Hiipiminen
+0x000000D3 Hiivi pahaa-aavistamattomien otusten kimppuun tai välttele hyökkääjiä. Hyökkäys on tehokkaampi, jos vastustaja ei osaa odottaa sitä.
+
+# Charge4.prop
+
+0x0000001F Rynnäkkö
+0x00000020 Hyökkäys, joka suoritetaan etäältä yhden kohteen kimppuun. Tainnuttaa kohteen.
+
+# Strike3.prop
+
+0x000000DA Isku
+0x000000DB Tuhoisa hyökkäys usean lähietäisyydellä olevan kohteen kimppuun.
+
+### verb Tray Abilities (CSA) ###
+# CL_Flagella.prop
+
+0x00000041 Pikavauhti
+0x00000042 Otuksesi liikkuu nopeammin.
+
+# Vehicle_MilitaryPower.prop
+
+0x06318044 Sotilasvoima
+0x06318045 Sotilasvoima kasvattaa taistelutehoa.
+
+# City_Military.prop
+
+0x00000039 Armeijan kulkuneuvot
+0x0000003A Armeijan kulkuneuvot voivat hyökätä kaupunkien kimppuun ja tuhota ne.
+
+# Strike5.prop
+
+0x000000DE Isku
+0x000000DF Tuhoisa hyökkäys usean lähietäisyydellä olevan kohteen kimppuun.
+
+# Tribe_Hunt.prop
+
+0x00000105 Metsästä eläimiä ruoaksesi tai hyökkää toisten heimojen kimppuun.
+0x00000104 Hyökkäys
+0x0666A343 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+# City_Economic.prop
+
+0x0000002F Muodosta kauppareittejä toisiin kaupunkeihin
+0x00000030 Talouden kulkuneuvoilla voit käydä kauppaa muiden kaupunkien kanssa ja koettaa ostaa ne itsellesi.
+
+### Sense (CSA) ###
+# Sense1-5.prop
+
+0x0500E7DD Näkö
+0x0500E7DE Otuksesi tarvitsee silmät, jotta se näkee eteensä.
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+
+0x06526763 Kaikkiruokainen
+0x06526773 Solusi syö vihreitä kasveja, saalistaa muita soluja, syö punaisia lihapaloja ja imee nestettä kasveista ja muista soluista.
+
+# CL_Herbivore.prop
+
+0x00000043 Kasvinsyöjä
+0x00000044 Solusi syö vihreitä kasvinosia.
+0x06494A72 Kasvinsyöjä – Syöt vihreitä kasveja.
+
+##### Editor -- Mouth Parts (CSA) #####
+# Carnivore1-5.prop
+
+0x0473A24C Lihansyöjä
+0x0473A24D Otuksesi syö muita otuksia.
+
+# Omnivore.prop
+
+0x04D18880 Kaikkiruokainen
+0x04D18881 Otuksesi syö sekä hedelmiä että toisia eläimiä.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+# Vocalize1.prop
+
+0x0000011B Laulamalla voit ystävystyä äänekkäiden otusten kanssa.
+0x0000011A Laulu
+
+# HitPoints.prop
+
+0x062CFA7E Parempi kunto lisää otuksen selviytymismahdollisuuksia muiden otusten hyökätessä.
+0x062CFA7D Kunto
+
+#Generic
+
+0x04D3040D Ominaisuudet
+0x04D3040E Saat uusia ominaisuuksia lisäämällä osia. Kehity!
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+
+0x0630D541 Talouden ilma-alus
+0x0630D542 Keinottele itsesi huipulle ilmaherruudella!
+
+### Spaceship ###
+# Vehicle_UFO.prop
+
+0x0630D565 Avaruusalus
+0x0630D566 Avaruudessa kukaan ei kuule ihastuksen huutoasi. Onneksi voit kiertää esittelemässä kaunista alustasi kaikelle universumille.
+
+# Colony_UFO.prop
+
+0x00000053 Avaruusalus
+0x00000054 Tutkiminen, rakentaminen, sieppaaminen ja tuhoaminen ovat kaikki avaruusaluksesi ominaisuuksia.
+0x06779205 Siirtokunnalla ei ole merisatamaa.
+
+# Strike4.prop
+
+0x000000DC Isku
+0x000000DD Tuhoisa hyökkäys usean lähietäisyydellä olevan kohteen kimppuun.
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+
+0x0630D551 Uskonnon ilma-alus
+0x0630D552 Käännytä massat ilmoista käsin!
+
+# City_Food.prop
+
+0x00000031 DELETED
+0x00000032 DELETED
+
+# Dance3.prop
+
+0x00000059 Tanssi
+0x0000005A Tanssimalla voit ystävystyä siitä pitävien otusten kanssa.
+
+# Vocalize4.prop
+
+0x00000123 Laulamalla voit ystävystyä äänekkäiden otusten kanssa.
+0x00000122 Laulu
+
+#Speed unit
+
+0x064922B3 ~icon_amount~
+0x06492254 ~icon_amount~
+0x064923C3 Kulkuneuvon nopeus ~icon_amount~
+
+# Tribe_Hunt1.prop
+
+0x00000106 Soihdut
+0x00000107 Palavilla soihduilla voit tuhota työkaluvajoja ja majoja nopeasti, mutta vihollisheimon jäseniä vastaan ne eivät ole kovin tehokkaita.
+0x0666A344 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+# CL_GameSpeed.prop
+
+0x0649A10D Lisää siima, värekarva tai suihkutin, niin voit liikkua nopeammin. Kukin kulkuelin lisää solun nopeutta.
+0x0649A10C Nopeus
+
+# City_CivicObject.prop
+
+0x533DD075 Koristeet
+0x533DD076 Tunnelmaa kaupunkiin! Vain koristeeksi.
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+
+0x0630D543 Talouden vesikulkuneuvo
+0x0630D544 Keinottele itsesi huipulle meriä hallitsemalla!
+
+# Vocalize5.prop
+
+0x00000125 Laulamalla voit ystävystyä äänekkäiden otusten kanssa.
+0x00000124 Laulu
+
+# Tribe_SocialMaraca.prop
+
+0x00000110 Marakassit
+0x00000111 Marakaseilla voit tehdä vaikutuksen toisiin heimoihin!
+0x0666A349 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+#Colony_NormalOutfit.prop
+
+0x04D02E60 Anna uudisasukkaille asuja!
+
+# CL_Carnivore.prop
+
+0x0000003D Lihansyöjä
+0x0000003E Solusi saalistaa muita soluja ja syö ruoaksi punaisia lihapaloja.
+0x06494A73 Lihansyöjä – Saalistat muita soluja ja syöt punaisia lihapaloja.
+
+# Spit4.prop
+
+0x000000C6 Sylkeminen
+0x000000C7 Nopea hyökkäys, joka sinkoaa ammuksia yksittäiseen kohteeseen.
+
+# City_Defense.prop
+
+0x0000002D Puolusta kaupunkia!
+0x0000002E Parantaa puolustusta.
+
+# Posture4.prop
+
+0x000000A9 Poseeraus
+0x000000AA Poseeraukset ovat suosittuja tarttuimilla varustettujen otusten keskuudessa.
+
+# Tribe_SocialDidgeridoo.prop
+
+0x0000010E Didgeridoot
+0x0000010F Didgeridoolla voit tehdä vaikutuksen toisiin heimoihin!
+0x0666A348 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+# Tribe_SocialHorn.prop
+
+0x0000010C Puutorvet
+0x0000010D Torvilla voit tehdä vaikutuksen toisiin heimoihin!
+0x0666A347 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+# Charm1.prop
+
+0x00000081 Hurmaaminen
+0x00000082 Tämän taidon avulla voit hurmata otukset, joilla on paljon yksityiskohtaisia ruumiinosia.
+
+# City_Harvester.prop
+
+0x00000036 DELETED
+0x00000035 DELETED
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+
+0x06496720 Kaupungintalo
+0x06496721 Uusi kaupunki löytyi.
+
+# Bite4.prop
+
+0x00000009 Puraisu
+0x0000000A Nopea hyökkäys yhden lähietäisyydellä olevan kohteen kimppuun.
+
+# Charm2.prop
+
+0x00000085 Hurmaaminen
+0x00000086 Tämän taidon avulla voit hurmata otukset, joilla on paljon yksityiskohtaisia ruumiinosia.
+
+# Tribe_Hunt2.prop
+
+0x00000108 Kivikirveet
+0x00000109 Kivikirveet ovat tehokkaita villieläimiä ja heimoja vastaan, mutta majojen ja työkaluvajojen tuhoaminen ei käy niillä kovin hyvin.
+0x0666A345 Tuhoa toinen heimo tai liittoudu sen kanssa, niin saat sen työkalut käyttöösi.
+
+### Call (CSA) ###
+# Call1-5.prop
+
+0x00000080 Kutsuhuudolla voit paikallistaa kumppanisi ja pesäsi, mutta samalla paljastat itsesi lähistön pedoille.
+0x0000007F Kutsuhuuto
+
