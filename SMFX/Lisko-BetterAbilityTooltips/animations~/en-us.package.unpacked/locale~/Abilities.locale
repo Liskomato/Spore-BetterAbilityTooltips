@@ -1,0 +1,777 @@
+﻿
+
+### Complexity Meter ##
+0x05f110b3 Complexity Meter
+0x05f110b4 If this meter is full then you can't add any more parts.
+
+##### CELL GAME #####
+
+
+#Displayed Unit descriptions (like "level", "amount" or something)
+
+#Unit for part rollover
+0x064922b1   ~icon_amount~ 
+
+#Unit for verb tray rollover
+0x064922b2   ~icon_amount~
+
+#Speed unit
+0x064922b3 ~icon_amount~
+
+#Speed on screen unit
+0x064acdc4 ~icon_amount~
+
+#Heath rollover unit
+0x064922b4 ~icon_amount~
+
+#Heath on screen unit
+0x064922b5 ~icon_amount~
+
+
+### verb tray groups (CSA) ###
+#attack
+0x00001007 Attack
+0x00002007 Add Spike, Poison and Electric parts to attack other cells.
+
+#diet
+0x00001005 Diet
+0x00002005 Add Filter Mouths, Jaws and Proboscis parts to eat different types of food.
+
+#movement
+0x00001006 Movement
+0x00002006 Add Flagella, Cilia and Jet parts to move faster. Every additional movement part will add to the cell speed.
+
+#health
+0x00001008 Health
+0x00002008 Health shows you how much damage your cell can take. Each cell has three health units.
+
+# CL_GameSpeed.prop
+0x0649a10c Speed
+0x0649a10d Add Flagella, Cilia and Jet parts to move faster. Every additional movement part will add to the cell speed.
+
+### verb Tray Abilities (CSA) ###
+
+# CL_Flagella.prop
+0x00000041 High Speed
+0x00000042 Your cell moves faster.
+
+# CL_Jet.prop
+0x00000045 Burst Acceleration
+0x00000046 Your cell accelerates rapidly. 
+
+# CL_Cilia.prop
+0x0000003f Fast Turns
+0x00000040 Your cell turns quickly.
+
+# CL_Herbivore.prop
+0x00000043 Herbivore
+0x00000044 Your cell eats green plant buds.
+0x06494a72 Herbivore - You eat green plant buds.
+
+# CL_Carnivore.prop
+0x0000003d Carnivore
+0x0000003e Your cell hunts other cells and eats red meat chunks.
+0x06494a73 Carnivore - You hunt other cells and eat red meat chunks.
+
+# CL_Proboscis.prop
+0x0000004b Omnivore
+0x0000004c Your cell slurps liquids from plants and living cells.
+0x06493565 Omnivore - You eat green plants or living Cells.
+
+# CL_Herbivore_Carnivore.prop
+0x06526760 Omnivore
+0x06526770 Your cell eats green plant buds, hunts other cells and eats red meat chunks.
+
+# CL_Herbivore_Proboscis.prop
+0x06526761 Omnivore
+0x06526771 Your cell eats green plant buds and slurps liquids from plants and living cells.
+
+# CL_Carnivore_Proboscis.prop
+0x06526762 Omnivore
+0x06526772 Your cell hunts other cells, eats red meat chunks, and slurps liquids from plants and living cells.
+
+# CL_Herbivore_Carnivore_Proboscis.prop
+0x06526763 Omnivore
+0x06526773 Your cell eats green plant buds, hunts other cells, eats red meat chunks, and slurps liquids from plants and living cells.
+
+
+
+
+# CL_Poke.prop
+0x00000049 Attack & Break
+0x0000004a Charge into cells to attack them. Some objects will break if you poke them.
+
+# CL_Poison.prop
+0x00000047 Spit Poison
+0x00000048 Your cell will spit out clouds of poison and gain immunity from other cell's poison emissions. 
+
+# CL_Shock.prop
+0x0000004d Electrocute
+0x0000004e Your cell will shock nearby cells and gain immunity from other cell's bolts. 
+
+# CL_Speed.prop
+0x0563ff82 Speed
+0x0563ff83 Speed
+
+
+##### END CELL GAME (CSA) #####
+
+
+
+
+##### CREATURE GAME (CSA) #####
+
+#Displayed Unit descriptions (like "level", "amount" or something)
+
+#Unit for part rollover
+0x062d01cd Level  ~icon_amount~ 
+
+#Unit for verb tray rollover
+0x062d01ce Level  ~icon_amount~
+
+
+#Speed unit
+0x06492254 ~icon_amount~
+
+#Speed on screen unit
+0x0649a1b0 ~icon_amount~
+
+
+#Heath rollover unit
+0x064922b6 ~icon_amount~
+
+#Heath onscreen unit
+0x064922b7 ~icon_amount~
+
+
+
+
+### verb tray groups (CSA) ###
+#attack
+0x00001000 Attack
+0x00002000 Add Bite, Strike, Charge and Spit parts to attack other creatures.
+
+#socialize
+0x00001001 Socialize
+0x00002001 Add Sing, Dance, Pose and Charm parts to socialize with other creatures.
+
+#diet
+0x00001002 Diet
+0x00002002 Your diet as a cell determines your diet as a creature.
+
+#movement
+0x00001003 Speed
+0x00002003 Add faster feet to increase speed!
+
+#health
+0x00001004 Health
+0x00002004 Each brain level upgrade will add to your health or you can buy armored parts to help you survive in combat.
+
+#Generic
+0x04d3040d Abilities
+0x04d3040e The parts you add give you abilities.  Evolve!
+
+
+### verb Tray Abilities. Generic Category (CSA) ###
+
+### Health (CSA) ###
+# Health.prop
+0x04cb5b6d Health
+0x04cb5b6c Increased Health improves survivability against creature attacks.
+
+# HitPoints.prop
+0x062cfa7d Health
+0x062cfa7e Increased Health improves survivability against creature attacks.
+
+### Call (CSA) ###
+
+# Call1-5.prop
+0x0000007f Mating Call
+0x00000080 Call to locate your mate and your nest but beware of alerting nearby predators.
+
+### Jump (CSA) ###
+# Jump1-5.prop
+0x00000097 Jump
+0x00000098 Jumping allows access to hard to reach areas. Higher levels increase the height of your jump. Press Spacebar in Test Drive Mode for a preview.
+
+### Sneak or Stealth (CSA) ###
+# Stealth1-5.prop
+0x000000d2 Sneak
+0x000000d3 Sneak up on unsuspecting creatures or evade attackers. Attacking a creature while sneaking gives a bonus to the attack.
+
+### Sprint (CSA) ###
+# Sprint1-5.prop
+0xf386c341 Sprint
+0xf386c342 Sprint allows for a quick burst of speed. Additional sprint parts will extend its duration.
+
+### Sense (CSA) ###
+# Sense1-5.prop
+0x0500e7dd Sight
+0x0500e7de Your creature needs eyes to see clearly in the world.
+
+### An ability, neither social or combat or generic?
+### Ability to Grab stuff (CSA) ###
+
+# Graspers.prop
+0x0000009f Graspers
+0x000000a0 Pick up and use objects in the world. 
+
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Block (CSA) ###
+
+# Block1-5.prop
+0x00000015 Block
+0x00000016 During combat, use block to avoid damage.
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Strike (CSA) ###
+
+# Strike1.prop
+0x000000d4 Strike
+0x000000d5 A devastating attack that can damage multiple targets in close range.
+
+# Strike2.prop
+0x000000d8 Strike
+0x000000d9 A devastating attack that can damage multiple targets in close range.
+
+# Strike3.prop
+0x000000da Strike
+0x000000db A devastating attack that can damage multiple targets in close range.
+
+# Strike4.prop
+0x000000dc Strike
+0x000000dd A devastating attack that can damage multiple targets in close range.
+
+# Strike5.prop
+0x000000de Strike
+0x000000df A devastating attack that can damage multiple targets in close range.
+
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Bite (CSA) ###
+
+# BasicBite.prop
+0x049a3cc3 Auto Attack
+0x049a3cdb Your standard auto bite attack
+
+# Bite1.prop
+0x00000001 Bite
+0x00000002 A quick attack that can damage a single target in close range. 
+
+# Bite2.prop
+0x00000005 Bite
+0x00000006 A quick attack that can damage a single target in close range. 
+
+# Bite3.prop
+0x00000007 Bite
+0x00000008 A quick attack that can damage a single target in close range. 
+
+# Bite4.prop
+0x00000009 Bite
+0x0000000a A quick attack that can damage a single target in close range. 
+
+# Bite5.prop
+0x0000000b Bite
+0x0000000c A quick attack that can damage a single target in close range. 
+
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Charge (CSA)###
+
+# Charge1.prop
+0x00000017 Charge
+0x00000018 An attack that intercepts a single target from a distance and stuns upon contact.
+
+# Charge2.prop
+0x0000001b Charge
+0x0000001c An attack that intercepts a single target from a distance and stuns upon contact.
+
+# Charge3.prop
+0x0000001d Charge
+0x0000001e An attack that intercepts a single target from a distance and stuns upon contact.
+
+# Charge4.prop
+0x0000001f Charge
+0x00000020 An attack that intercepts a single target from a distance and stuns upon contact.
+
+# Charge5.prop
+0x00000021 Charge
+0x00000022 An attack that intercepts a single target from a distance and stuns upon contact.
+
+
+### verb Tray Abilities. Attack Category (CSA) ###
+### Spit (CSA) ###
+
+# Spit1.prop
+0x000000be Spit
+0x000000bf A quick attack that spits projectiles at a single target.
+
+# Spit2.prop
+0x000000c2 Spit
+0x000000c3 A quick attack that spits projectiles at a single target.
+
+# Spit3.prop
+0x000000c4 Spit
+0x000000c5 A quick attack that spits projectiles at a single target.
+
+# Spit4.prop
+0x000000c6 Spit
+0x000000c7 A quick attack that spits projectiles at a single target.
+
+# Spit5.prop
+0x000000c8 Spit
+0x000000c9 A quick attack that spits projectiles at a single target.
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Dance (CSA) ###
+
+# Dance1.prop
+0x33a78a33 Dance
+0x33a78a34 Dance to befriend other creatures who prefer this social style.
+
+# Dance2.prop
+0x00000057 Dance
+0x00000058 Dance to befriend other creatures who prefer this social style.
+
+# Dance3.prop
+0x00000059 Dance
+0x0000005a Dance to befriend other creatures who prefer this social style.
+
+# Dance4.prop
+0x0000005b Dance
+0x0000005c Dance to befriend other creatures who prefer this social style.
+
+# Dance5.prop
+0x0000005d Dance
+0x0000005e Dance to befriend other creatures who prefer this social style.
+
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Charm (CSA) ###
+
+
+# Charm1.prop
+0x00000081 Charm
+0x00000082 Creatures with many detail parts can be charmed with this social.
+
+# Charm2.prop
+0x00000085 Charm
+0x00000086 Creatures with many detail parts can be charmed with this social.
+
+# Charm3.prop
+0x00000087 Charm
+0x00000088 Creatures with many detail parts can be charmed with this social.
+
+# Charm4.prop
+0x00000089 Charm
+0x0000008a Creatures with many detail parts can be charmed with this social.
+
+# Charm5.prop
+0x0000008b Charm
+0x0000008c Creatures with many detail parts can be charmed with this social.
+
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Pose (CSA) ###
+
+
+# Posture1.prop
+0x000000a1 Pose
+0x000000a2 Poses are popular with other creatures with graspers.
+
+# Posture2.prop
+0x000000a5 Pose
+0x000000a6 Poses are popular with other creatures with graspers.
+
+# Posture3.prop
+0x000000a7 Pose
+0x000000a8 Poses are popular with other creatures with graspers.
+
+# Posture4.prop
+0x000000a9 Pose
+0x000000aa Poses are popular with other creatures with graspers.
+
+# Posture5.prop
+0x000000ab Pose
+0x000000ac Poses are popular with other creatures with graspers.
+
+
+### verb Tray Abilities. Social Category (CSA) ###
+### Vocalize (CSA) ###
+
+
+# Vocalize1.prop
+0x0000011a Sing
+0x0000011b Sing to befriend creatures who like to vocalize.
+
+# Vocalize2.prop
+0x0000011e Sing
+0x0000011f Sing to befriend creatures who like to vocalize.
+
+# Vocalize3.prop
+0x00000120 Sing
+0x00000121 Sing to befriend creatures who like to vocalize.
+
+# Vocalize4.prop
+0x00000122 Sing
+0x00000123 Sing to befriend creatures who like to vocalize.
+
+# Vocalize5.prop
+0x00000124 Sing
+0x00000125 Sing to befriend creatures who like to vocalize.
+
+### Editor -- Feet parts (CSA) ###
+
+# Speed1-5.prop
+0x0473a250 Speed
+0x0473a251 Add better feet to run faster.
+
+##### Editor -- Mouth Parts (CSA) #####
+
+# Carnivore1-5.prop
+0x0473a24c Carnivore
+0x0473a24d Your creature eats other creatures.
+
+# Herbivore1-5.prop
+0x0473a24e Herbivore
+0x0473a24f Your creature eats fruit.
+
+# Omnivore.prop
+0x04d18880 Omnivore
+0x04d18881 Your creature eats both fruit and other creatures.
+
+# Starvivore.prop
+0x04d19389 Mouthless
+0x04d1938a A creature without a mouth is doomed to starvation. Please add a mouth!
+
+##### Unknown Categories(CSA)  #####
+### These text doesn't show up in game right now, if they do, will be in Editor###
+###Check with Alex H before editing ###
+
+# Glide1-5.prop
+0x00000095 Glide
+0x00000096 Wings allow your creature to fly. Higher levels can fly farther.
+
+##### END CREATURE GAME #####
+
+##### BELOW THIS LINE DIDN'T SEND OUT FOR CSA ####
+
+##### TRIBE GAME #####
+
+# Tribe_Fish1.prop
+0x000000f0 Fishing Spears
+0x000000f1 Equip tribe members with Fishing Spears to maximize their fishing bounty.
+0x0666a340 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_Gather3.prop
+0x000000fc Gathering Canes
+0x000000fd Equip tribe members with Gathering Canes to maximize their fruit harvest.
+0x0666a341 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_Shaman_Staff.prop
+0x00000102 Healing Rods
+0x00000103 Equip tribe members with a Shaman Staff to heal their brethren on the battle field.
+0x0666a342 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_Hunt.prop
+0x00000104 Attack
+0x00000105 Hunt other animals for food or attack other tribes.
+0x0666a343 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_Hunt1.prop
+0x00000106 Flaming Torches
+0x00000107 Flaming Torches destroy tool shacks and huts quickly but are less effective against other tribe members.
+0x0666a344 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_Hunt2.prop
+0x00000108 Stone Axes
+0x00000109 Stone Axes are brutally effective against wild creatures and tribe members but are less useful against huts and tool shacks.
+0x0666a345 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_Hunt3.prop
+0x0000010a Throwing Spears
+0x0000010b Throwing Spears allow your tribe members to attack from a distance.
+0x0666a346 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_SocialHorn.prop
+0x0000010c Wooden Horns
+0x0000010d Impress neighboring tribes with these horns!
+0x0666a347 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_SocialDidgeridoo.prop
+0x0000010e Didgeridoos
+0x0000010f Impress neighboring tribes with these didgeridoos!
+0x0666a348 Ally or conquer other tribes to gain access to their tools.
+
+# Tribe_SocialMaraca.prop
+0x00000110 Maracas
+0x00000111 Impress neighboring tribes with these maracas!
+0x0666a349 Ally or conquer other tribes to gain access to their tools.
+
+#Colony_NormalOutfit.prop
+0x04d02e60 Add outfits to your colony dwellers!
+
+#Tribe_NormalOutfit.prop
+0x04d02bc7 Tribal Accessories
+0x04d02bf8 Add outfits to your tribe members to improve their abilities!
+
+
+
+##### Tribal Accessories #####
+0x055d4e62 Gathering
+0x055d4eb3 Add accessories to improve your gathering skills.
+
+0x055d4830 Combat
+0x055d4831 Combat accessories increase the damage each tribe member does in battle.
+
+0x055d4832 Social
+0x055d4833 Social accessories increase the odds of impressing other tribes during social interactions.
+
+0x055d4834 Health
+0x055d4835 Health accessories increase the amount of blows each tribe member can take in battle
+
+0x055d4836 Gathering
+0x055d4837 Gathering acessories make gathering food faster.
+
+0x055d4838 Fishing
+0x055d4839 Fishing accessories help increase your fishing ability.
+
+
+##### END TRIBE GAME #####
+
+
+##### CIV GAME #####
+
+### Vehicle Stats ###
+
+#Displayed Unit descriptions (like "level", "amount" or something)
+
+#Unit for part rollover
+0x062f86f5 + ~icon_amount~ 
+
+#Unit for verb tray rollover
+0x062f86f6 + ~icon_amount~
+
+#Unit for military verb tray rollover
+0x06492351 ~icon_amount~ military power
+
+#Unit for religious verb tray rollover
+0x06492352 ~icon_amount~ religious power
+
+#Unit for economic verb tray rollover
+0x06492353 ~icon_amount~ economic power
+
+#Unit for power verb tray rollover
+0x06492354 ~icon_amount~ power
+
+#Speed unit
+0x064923c3 ~icon_amount~ vehicle speed
+
+#Heath rollover unit
+0x064923c4 ~icon_amount~ vehicle health
+
+
+
+#Format for displaying percentage
+0x0642c770 ~icon_amount~ %
+
+
+### Speed ###
+# Vehicle_Speed.prop
+0x04cea2d2 Speed
+0x04cea2d3 Increases the Speed of your vehicle.
+
+### Power ###
+# Vehicle_Power.prop
+0x04cea2d4 Power
+0x04cea2d5 Increased power means increased efficiency.
+
+# Vehicle_MilitaryPower.prop
+0x06318044 Military Power
+0x06318045 Military Power increases combat ability.
+
+# Vehicle_ReligiousPower.prop
+0x06318040 Religious Power
+0x06318041 Religious power increases your ability to sway the non believers.
+
+# Vehicle_EconomicPower.prop
+0x06318042 Economic Power
+0x06318043 Economic Power increases trade route profitability.
+
+### Defense ###
+# Vehicle_Defense.prop
+0x04cea2d0 Health
+0x04cea2d1 Increasing your vehicle's Health will allow it to survive longer in combat.
+
+### MilitaryAir ###
+# Vehicle_MilitaryAir.prop
+0x0630d531 Military Air
+0x0630d532 Fly your way to military dominance.
+
+### MilitarySea ###
+# Vehicle_MilitarySea.prop
+0x0630d533 Military Sea
+0x0630d534 Sail your way to military dominance.
+
+### MilitaryLand ###
+# Vehicle_MilitaryLand.prop
+0x0630d535 Military Land
+0x0630d536 Drive your way to military dominance.
+
+### EconomicAir ###
+# Vehicle_EconomicAir.prop
+0x0630d541 Economic Air
+0x0630d542 Wheel and deal your way to the top by air!
+
+### EconomicSea ###
+# Vehicle_EconomicSea.prop
+0x0630d543 Economic Sea
+0x0630d544 Wheel and deal your way to the top by sea!
+
+### EconomicLand ###
+# Vehicle_EconomicLand.prop
+0x0630d545 Economic Land
+0x0630d546 Wheel and deal your way to the top by land!
+
+### ReligiousAir ###
+# Vehicle_ReligiousAir.prop
+0x0630d551 Religious Air
+0x0630d552 Convert the masses from the skies!
+
+### ReligiousSea ###
+# Vehicle_ReligiousSea.prop
+0x0630d553 Religious Sea
+0x0630d554 Convert the masses from the seas!
+
+### ReligiousLand ###
+# Vehicle_ReligiousLand.prop
+0x0630d555 Religious Land
+0x0630d556 Convert the masses from the ground!
+
+### Spaceship ###
+# Vehicle_UFO.prop
+0x0630d565 Spaceship
+0x0630d566 The only thing between you and the vacuum of space is 6 feet of solid style.
+
+### ColonyLand ###
+# Vehicle_ColonyLand.prop
+0x0630d575 Colony Land
+0x0630d576 Explore the colony by land!
+
+### ColonyAir ###
+# Vehicle_ColonyAir.prop
+0x0630d571 Colony Air
+0x0630d572 Explore the Colony by air!
+
+### ColonySea ###
+# Vehicle_ColonySea.prop
+0x0630d573 Colony Sea
+0x0630d574 Explore the colony by sea!
+
+### Buildings ###
+### City Hall ###
+# Building_CityHall.prop
+0x06496720 City Hall
+0x06496721 Found a new city.
+
+### House ###
+# Building_House.prop
+0x06496722 House
+0x06496723 Increases city population and vehicle cap.
+
+### Factory ###
+# Building_Factory.prop
+0x06496724 Factory
+0x06496725 Increases income but lowers happiness.
+
+### Entertainment ###
+# Building_Entertainment.prop
+0x06496726 Entertainment
+0x06496727 Increases happiness which protects against religious attacks.
+
+# City_NormalOutfit.prop
+0x05b1e9bb Create an outfit for your citizens.
+0x05b1e9bc Create an outfit for your citizens.
+
+# City_CivicObject.prop
+0x533dd075 Decorations
+0x533dd076 Go to town!  Purely for looks.
+
+# City_Cultural.prop
+0x0000002b Convert others
+0x0000002c Religious vehicles can convert unhappy cities to your civilization.
+
+# City_Defense.prop
+0x0000002d Defend the city!
+0x0000002e Increases defenses.
+
+# City_Economic.prop
+0x0000002f Make trade routes with other cities
+0x00000030 Economic vehicles can trade with other cities to buy them out.
+
+# City_Food.prop
+0x00000031 DELETED
+0x00000032 DELETED
+
+# City_Happiness.prop
+0x00000033 Happiness
+0x00000034 Keep your citizens happy by placing Entertainment buildings beside Houses.
+
+# City_Harvester.prop
+0x00000035 DELETED
+0x00000036 DELETED
+
+# City_Income.prop
+0x00000037 Income
+0x00000038 Factories increase income when placed beside Houses but also lower happiness, especially if near Entertainment.
+
+# City_Military.prop
+0x00000039 Military Vehicles
+0x0000003a Military vehicles can attack and destroy other cities.
+
+# City_Population.prop
+0x0000003b Population
+0x0000003c Houses increase income when linked with Factories. Each House also increases your Vehicle Cap by one.
+
+# Colony_Building.prop
+0x0000004f Production
+0x00000050 Increasing production will earn more money for the colony.
+
+# Colony_House.prop
+0x066657ca Production
+0x066657cb Houses increase spice production when linked with Factories. 
+
+# Colony_Entertainment.prop
+0x066657cc Production
+0x066657cd Keep your citizens happy by placing Entertainment buildings beside Houses.
+
+# Colony_Factory.prop
+0x066657ce Production
+0x066657cf Factories increase spice production when placed beside Houses but also lower happiness, especially if near Entertainment.
+
+# Colony_CivicObject.prop
+0x00000051 Civic Objects
+0x00000052 Civic Objects are purely decorative.
+
+# Colony_UFO.prop
+0x00000053 Space Ship
+0x00000054 Exploration! Construction! Abduction! Destruction! These are the abilities of your Space Ship.
+
+
+0x06779205 This colony does not have a seaport.
+
+# Please stop incrementing from 54, dance is using these "guids" already - Lauren 
+
+##### END CIV GAME #####
+
+
+##### SPACE GAME #####
+
+# Scan.prop
+0x000000b5 Scan
+
+##### END SPACE GAME #####
+
+
+

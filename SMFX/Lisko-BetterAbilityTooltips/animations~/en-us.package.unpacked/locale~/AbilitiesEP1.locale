@@ -1,0 +1,149 @@
+
+### Complexity Meter ##
+0x0742620A Remove extra instances or reduce the number of unique models.
+0x07426209 Too Complex
+0x05F110B4 If this meter is full then you can't add any more objects.
+0x05F110B3 Complexity Meter
+
+#############################################################################
+# Warrior Attacks:
+
+# Part: Bladed Knuckles
+0x00000013 Energy Slash
+0x00000014 Slashes the target for an energy cost.
+
+# Part: Missile Flinger  (RENAME)
+0x00000001 Missile Attack
+0x00000002 Fires a missile that damages the area around the target for an energy cost.
+
+# Part: Lightning Striker (RENAME)
+0x00001000 Lightning Strike
+0x00001001 Stuns the target and deals a large amount of damage for an energy cost.
+
+# Part: Plasma Pulser
+0x00001006 Pulse Blast
+0x00001007 Fires a concentrated blast of energy at the target for an energy cost.
+
+#############################################################################
+# Zealot Armor:
+
+# Part: Protecto-Shell
+0x00001012 Battle Armor
+0x00001013 Reduces damage slightly and has no energy cost.
+
+# Part: Danger Reductor
+0x00000019 Shield Generator
+0x00000020 Creates a protective orb, reducing damage taken and improving energy efficiency.
+
+# Part: Power Shield (RENAME)
+0x00001014 Powered Armor
+0x00001015 Absorbs all damage taken with a large energy cost.
+
+# Part: Regen-Deflector
+0x00001016 Energy Absorption
+0x00001017 Converts a small percentage of incoming damage directly into energy.
+
+#############################################################################
+# Ecologist Bonuses:
+
+# Parts: Invigorator, Super Invigorator
+0x00001018 Health Regeneration
+0x00001019 Increases health regeneration.
+0x00002012 ~icon_amount~ health/sec
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+0x00001020 Health Boost
+0x00001021 Improves total health.
+
+
+
+#############################################################################
+# Shaman Attacks:
+
+# Part: Swarm Magnet (RENAME)
+0x00001022 Summon Swarm
+0x00001023 Summons a swarm of meddlesome insects to torment your foes.
+
+# Part: Hypnomelder
+0x00001024 Mind Meld
+0x00001025 Turns hostile enemies friendly for a period of time.
+
+# Part: Toxic Crystal
+0x00001026 Poison Blade
+0x00001027 Delivers a toxic poison that does a small amount of damage over time.
+
+# Part: Icy Band
+0x00001028 Freeze Blast
+0x00001029 Freezes a target in place for a short time.
+
+#############################################################################
+# Diplomat Socials:
+
+# Part: Princely Pad
+0x00001030 Graceful Waltz
+0x00001031 An elegant dance that helps improve relations.
+
+# Part: Ducal Cape
+0x00001032 Harmonious Song
+0x00001033 A beautiful song that helps improve relations.
+
+# Part: Regal Ring
+0x00001034 Royal Charm
+0x00001035 A dazzling charm that helps improve relations.
+
+# Part: Imperial Robe
+0x00001036 Radiant Pose
+0x00001037 A vibrant pose that helps improve relations.
+
+#############################################################################
+# Trader Movement:
+
+# Part: Sprint Pack
+0x00001038 Sprint Burst
+0x00001039 Improves speed for a short period of time and has a small energy cost.
+
+# Part: Glider Pack
+0x00001040 Hover
+0x00001041 Keep aloft longer for a small energy cost.
+
+# Part: Stealth Helmet (RENAME)
+0x00001042 Stealth Field
+0x00001043 Renders your creature almost completely undetectable, but consumes energy while it is active.
+
+# Part: Jump Jet
+0x00001044 Jump Jet
+0x00001045 A very high jump with a medium energy cost.
+
+#############################################################################
+# Bard Socials:
+
+# Part: Synergizer
+0x00000101 Holo Charm
+0x00000102 An increased Charm that improves relations and has a small energy cost.
+
+# Part: Harpolizer
+0x00001046 Inspiring Song
+0x00001047 An increased Song that improves relations and has a small energy cost.
+
+# Part: Hop Gogs
+0x00001052 Stunning Dance
+0x00001053 An increased Dance that improves relations and has a small energy cost.
+
+# Part: Fettipopper
+0x00001058 Confetti Pose
+0x00001059 An increased Pose that improves relations and has a small energy cost.
+
+#############################################################################
+# Scientist Passive Bonuses:
+0x00001064 Energy Storage
+0x00001065 Increases total energy capacity.
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+0x00000010 Energy Regeneration
+0x00000012 ~icon_amount~ energy/sec
+0x00000011 Increases the rate at which energy is regenerated.
+
+
+0x00000021 Shielding
+0x00000022 Sometimes defense is the best defense.

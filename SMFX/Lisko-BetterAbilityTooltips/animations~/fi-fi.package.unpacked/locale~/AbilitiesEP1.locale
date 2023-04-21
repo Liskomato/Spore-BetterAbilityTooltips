@@ -1,0 +1,167 @@
+﻿#############################################################################
+# Warrior Attacks:
+# Part: Bladed Knuckles
+
+0x00000013 Energiaisku
+0x00000014 Vahingoittaa kohdetta, mutta kuluttaa lyöjän energiaa.
+
+# Part: Harpolizer
+
+0x00001047 Entistä parempi laulu, joka kohentaa suhteita ja kuluttaa vain vähän energiaa.
+0x00001046 Inspiraatiolaulu
+
+# Part: Stealth Helmet (RENAME)
+
+0x00001043 Häivyttää otuksesi melkein täysin näkyvistä, mutta kuluttaa energiaa koko käyttöajan.
+0x00001042 Häivytin
+
+### Complexity Meter ##
+
+0x07426209 Liian monimutkainen
+0x0742620A Poista ylimääräiset kappaleet tai vähennä ainutlaatuisten mallien määrää.
+0x05F110B4 Jos mittari on täynnä, et voi lisätä uusia osia.
+0x05F110B3 Monimutkaisuusmittari
+
+#############################################################################
+# Bard Socials:
+# Part: Synergizer
+
+0x00000102 Entistä parempi hurmausmenetelmä, joka kohentaa suhteita ja kuluttaa vain vähän energiaa.
+0x00000101 Holohahmotin
+
+# Part: Hop Gogs
+
+0x00001053 Entistä parempi tanssi, joka kohentaa suhteita ja kuluttaa vain vähän energiaa.
+0x00001052 Tainnutustanssi
+
+# Part: Icy Band
+
+0x00001029 Jähmettää kohteensa hetken ajaksi.
+0x00001028 Jähmetin
+
+# Part: Jump Jet
+
+0x00001044 Hypytin
+0x00001045 Huippuhyppy, joka kuluttaa keskiverrosti energiaa.
+
+# Part: Plasma Pulser
+
+0x00001006 Energia-ammus
+0x00001007 Ampuu energia-ammuksen, mutta kuluttaa myös energiaa.
+
+# Part: Power Shield (RENAME)
+
+0x00001014 Voimahaarniska
+0x00001015 Vaimentaa kaiken vahingon, mutta kuluttaa runsaasti energiaa.
+
+# Part: Hypnomelder
+
+0x00001024 Mielensulautus
+0x00001025 Muuntaa viholliset hetken ajaksi ystävällisiksi.
+
+# Part: Fettipopper
+
+0x00001059 Entistä parempi poseeraus joka kohentaa suhteita ja kuluttaa vain vähän energiaa.
+0x00001058 Päheä poseeraus
+
+# Part: Imperial Robe
+
+0x00001036 Ponteva poseeraus
+0x00001037 Tyylikäs poseeraus, joka parantaa suhteita.
+
+#############################################################################
+# Zealot Armor:
+# Part: Protecto-Shell
+
+0x00001013 Vaimentaa hieman vahinkoa, ja ei kuluta lainkaan energiaa.
+0x00001012 Taisteluhaarniska
+
+# Part: Missile Flinger  (RENAME)
+
+0x00000002 Ampuu ohjuksen, joka vahingoittaa kohdealuetta, mutta kuluttaa laukaisijan energiaa.
+0x00000001 Ohjusisku
+
+# Part: Regal Ring
+
+0x00001034 Mahtihurma
+0x00001035 Tyylikäs hurmaustaktiikka, joka auttaa parantamaan suhteita.
+
+#############################################################################
+# Shaman Attacks:
+# Part: Swarm Magnet (RENAME)
+
+0x00001023 Kutsuu esiin parven ärsyttäviä hyönteisiä, jotka piinaavat vihollisiasi.
+0x00001022 Parveilin
+
+#############################################################################
+# Scientist Passive Bonuses:
+
+0x00001064 Energiasäiliö
+0x00001065 Kasvattaa energian kokonaiskapasiteettia.
+
+#############################################################################
+# Ecologist Bonuses:
+# Parts: Invigorator, Super Invigorator
+
+0x00001018 Kunnonpalautin
+0x00001019 Tehostaa kunnonpalautumista.
+0x00002012 Kuntoa per sekunti: ~icon_amount~
+
+# Part: Ducal Cape
+
+0x00001033 Kaunis kappale, joka auttaa kohentamaan suhteita.
+0x00001032 Harmoniahymni
+
+# Part: Regen-Deflector
+
+0x00001017 Muuntaa osan kärsitystä vahingosta suoraan käytettäväksi energiaksi.
+0x00001016 Energiamuunnin
+
+#############################################################################
+# Trader Movement:
+# Part: Sprint Pack
+
+0x00001038 Pikapikaistus
+0x00001039 Parantaa nopeutta hetkeksi ja kuluttaa vain vähän energiaa.
+
+# Part: Glider Pack
+
+0x00001041 Pysyt ilmassa hivenen pidempään. Kuluttaa vain vähän energiaa.
+0x00001040 Leijuri
+
+# Part: Lightning Striker (RENAME)
+
+0x00001000 Salamoitin
+0x00001001 Tainnuttaa kohteen ja aiheuttaa runsaasti vahinkoa, mutta kuluttaa myös energiaa.
+
+# Part: Toxic Crystal
+
+0x00001026 Myrkkyterä
+0x00001027 Esiin ponnahtaa myrkytetty terä, joka tekee jonkin aikaa hivenen vahinkoa.
+
+# Parts: Stam-Booster, Mega Stam-Magnifyer
+
+0x00001020 Kunnonkasvatin
+0x00001021 Kasvattaa kokonaiskuntoa.
+
+# Part: Danger Reductor
+
+0x00000020 Kehittää suojaavan energiakilven, joka vaimentaa vahinkoja ja tehostaa energiankäyttöä.
+0x00000019 Suojageneraattori
+
+#############################################################################
+# Diplomat Socials:
+# Part: Princely Pad
+
+0x00001031 Tyylikäs tanssi, joka kohentaa suhteita.
+0x00001030 Tyylitanssi
+
+# Energy Regen
+# Parts: Compact Generator, Power Generator
+
+0x00000011 Nopeuttaa energian palautumista.
+0x00000010 Energian palautus
+0x00000012 Energiayksikköjä per sekunti: ~icon_amount~
+0x00000021 Suojat
+0x00000022 Joskus puolustus on paras puolustus.
+
