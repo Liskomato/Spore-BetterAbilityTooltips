@@ -119,19 +119,19 @@
 
 # Part: Synergizer
 0x00000101 Holo Charm
-0x00000102 An increased Charm that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Charm ~br~L2: Level 12 Charm ~br~L3: Level 18 Charm
+0x00000102 An increased Charm that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Charm, 100 energy ~br~L2: Level 12 Charm, 150 energy ~br~L3: Level 18 Charm, 275 energy
 
 # Part: Harpolizer
 0x00001046 Inspiring Song
-0x00001047 An increased Song that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Sing ~br~L2: Level 12 Sing ~br~L3: Level 18 Sing
+0x00001047 An increased Song that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Sing, 100 energy ~br~L2: Level 12 Sing, 150 energy ~br~L3: Level 18 Sing, 275 energy
 
 # Part: Hop Gogs
 0x00001052 Stunning Dance
-0x00001053 An increased Dance that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Dance ~br~L2: Level 12 Dance ~br~L3: Level 18 Dance
+0x00001053 An increased Dance that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Dance, 100 energy ~br~L2: Level 12 Dance, 150 energy ~br~L3: Level 18 Dance, 275 energy
 
 # Part: Fettipopper
 0x00001058 Confetti Pose
-0x00001059 An increased Pose that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Pose ~br~L2: Level 12 Pose ~br~L3: Level 18 Pose
+0x00001059 An increased Pose that improves relations and has a small energy cost. Social level and energy cost depend on part morph. ~br~Power and cost:~br~L1: Level 6 Pose, 100 energy ~br~L2: Level 12 Pose, 150 energy ~br~L3: Level 18 Pose, 275 energy
 
 #############################################################################
 # Scientist Passive Bonuses:
