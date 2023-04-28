@@ -104,7 +104,7 @@
 
 # Part: Glider Pack
 0x00001040 Hover
-0x00001041 Keep aloft longer for a small energy cost.
+0x00001041 Keep aloft longer for 100 energy per flap. You can flap these artificial wings for as long as you can, proved you have the necessary energy.
 
 # Part: Stealth Helmet (RENAME)
 0x00001042 Stealth Field
